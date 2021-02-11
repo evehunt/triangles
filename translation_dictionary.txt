@@ -1,0 +1,10 @@
+meaning_dict = {'n8':'[NEGATE/EXTINGUISH]', 
+                'p0p':'[LIFE/FLAME]', 
+                'kf':'[TIME]', 
+                'bg':'[DAY/ALL]',
+                'i':'[ALTER]',
+                '4':'[FUTURE]',
+                'l':'[PRESENT]',
+                'a':'[PERSON(S)]',
+                'b':'[OCCUR]',
+                'g':'[IS]'}
